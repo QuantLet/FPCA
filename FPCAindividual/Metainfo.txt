@@ -11,7 +11,7 @@ See also: FPCASimulation, FPCAepan, FPCAmultiloc, FPCAsimulate_input, FPCAgpu, F
 
 Author: Heiko Wagner
 
-Submitted:  Maria Grith
+Submitted:  16.12.2015
 
 
 Input:
