@@ -10,7 +10,7 @@ See also: FPCAgpu, FPCAepan, FPCAmultiloc, FPCAsimulate_input, FPCAindividual, F
 
 Author: Maria Grith
 
-Submitted:  Maria Grith
+Submitted:  17.12.2017
 
 Input:
             - Results.mat          : Output of FPCAreal_data.m
