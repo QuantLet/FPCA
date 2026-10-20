@@ -17,7 +17,7 @@ See also: FPCAgpu, FPCAepan, FPCAmultiloc, FPCAsimulate_input, FPCAindividual, F
 
 Author: Maria Grith
 
-Submitted: Maria Grith
+Submitted: 17.08.2016
 
 Input: 
 - ExpirationDates.txt  : Expiration dates for the call prices
