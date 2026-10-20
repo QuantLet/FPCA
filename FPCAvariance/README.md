@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: FPCAvariance
 
-Published in: Functional Principal Component Analysis for Derivatives of
+Published in: Functional Principal Component Analysis for Derivatives of High-Dimensional Spatial Curves.
 
 Description: Calculates two-dimensional variance estimator, based on Hall and Marron (1990).
 
@@ -17,7 +17,7 @@ See also: FPCAgpu, FPCASimulation, FPCAmultiloc, FPCAsimulate_input, FPCAindivid
 
 Author: Heiko Wagner
 
-Submitted: Maria Grith
+Submitted: 16.12.2015
 
 Input: 
 - X1 : x1 coordinate
