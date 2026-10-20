@@ -7,17 +7,17 @@
 ```
 Name of Quantlet: FPCAsimulate_input
 
-Published in: Functional Principal Component Analysis for Derivatives of
+Published in: Functional Principal Component Analysis for Derivatives of High-Dimensional Spatial Curves
 
 Description: Simulates real and noisy call prices using a mixture of log-normal densities.
 
 Keywords: simulation, FPCA, surface, derivative, density
 
-See also: FPCAsimulation, FPCAepan, FPCAmultiloc, FPCAindividual, FPCAgpu,
+See also: FPCAsimulation, FPCAepan, FPCAmultiloc, FPCAindividual, FPCAgpu, FPCAvariance
 
 Author: Heiko Wagner
 
-Submitted: Maria Grith
+Submitted: 16.12.2015
 
 Input: 
 - N  : Number of curves
